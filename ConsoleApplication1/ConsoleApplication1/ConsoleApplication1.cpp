@@ -3,15 +3,24 @@
 
 #include <iostream>
 
+using namespace std;
+
+void graph()
+{
+    cout << "graph" << endl;
+}
+
 void sound() {
 
 }
 
 int main()
 {
+    graph();
+    cout << "Hello World!\n";
     sound();
     //master
-    std::cout << "Hello World!\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
