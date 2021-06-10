@@ -19,8 +19,9 @@ int main()
     graph();
     cout << "Hello World!\n";
     sound();
-    //master
-
+    //master2
+    //master1
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
