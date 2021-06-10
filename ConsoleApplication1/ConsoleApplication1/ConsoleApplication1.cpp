@@ -3,8 +3,13 @@
 
 #include <iostream>
 
+void sound() {
+
+}
+
 int main()
 {
+    sound();
     //master
     std::cout << "Hello World!\n";
 }
