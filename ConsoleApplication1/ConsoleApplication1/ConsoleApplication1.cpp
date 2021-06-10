@@ -3,15 +3,17 @@
 
 #include <iostream>
 
+using namespace std;
+
 void graph()
 {
-
+    cout << "graph" << endl;
 }
 
 int main()
 {
     graph();
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
