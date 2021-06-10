@@ -3,8 +3,14 @@
 
 #include <iostream>
 
+void graph()
+{
+
+}
+
 int main()
 {
+    graph();
     std::cout << "Hello World!\n";
 }
 
